@@ -10,7 +10,7 @@ This project showcases a comprehensive business data analytics project, analyzin
 vrinda-store-sales-analysis-excel/
 │
 ├── data/
-│   └── [Vrinda Store Data Analysis.xlsx](./data/Vrinda%20Store%20Data%20Analysis.xlsx)
+│   └── [Vrinda Store Data Analysis.xlsx](https://docs.google.com/spreadsheets/d/1E_zKgGYXv5fIoCFEva3S-GjVkDXDdJ94/edit?usp=sharing&ouid=106003096947315417853&rtpof=true&sd=true)
 │
 ├── visuals/
 │   └── [Screenshots of dashboards and charts](./visuals/)
@@ -29,7 +29,7 @@ The analysis demonstrates formal proficiency in retail sales analytics, insight 
 
 ## 📂 Dataset Description
 
-- **[Vrinda Store Data Analysis.xlsx](./data/Vrinda%20Store%20Data%20Analysis.xlsx)**:  
+- **[Vrinda Store Data Analysis.xlsx](https://docs.google.com/spreadsheets/d/1E_zKgGYXv5fIoCFEva3S-GjVkDXDdJ94/edit?usp=sharing&ouid=106003096947315417853&rtpof=true&sd=true)**:  
   Monthly aggregated sales data:
   - **Month** (Jan–Dec)
   - **Sum of Sales Amount**
