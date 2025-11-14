@@ -29,8 +29,8 @@ The analysis demonstrates formal proficiency in retail sales analytics, insight 
 
 ## 📂 Dataset Description
 
-- **[Vrinda Store Data Analysis.xlsx](https://docs.google.com/spreadsheets/d/1E_zKgGYXv5fIoCFEva3S-GjVkDXDdJ94/edit?usp=sharing&ouid=106003096947315417853&rtpof=true&sd=true)**:  
-  Monthly aggregated sales data:
+- **[Vrinda Store Data Analysis.xlsx](https://docs.google.com/spreadsheets/d/1E_zKgGYXv5fIoCFEva3S-GjVkDXDdJ94/edit?usp=sharing&ouid=106003096947315417853&rtpof=true&sd=true)**:  It contains 21 columns and 31048 rows.
+   Monthly aggregated sales data:
   - **Month** (Jan–Dec)
   - **Sum of Sales Amount**
   - **Count of Orders**
