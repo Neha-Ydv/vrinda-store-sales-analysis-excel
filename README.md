@@ -10,7 +10,7 @@ This project showcases a comprehensive business data analytics project, analyzin
 vrinda-store-sales-analysis-excel/
 │
 ├── data/
-│   └── [Vrinda Store Data Analysis.xlsx](https://docs.google.com/spreadsheets/d/1E_zKgGYXv5fIoCFEva3S-GjVkDXDdJ94/edit?usp=sharing&ouid=106003096947315417853&rtpof=true&sd=true)
+│   └── [Vrinda Store Data Analysis.xlsx]
 │
 ├── visuals/
 │   └── [Screenshots of dashboards and charts](./visuals/)
@@ -67,16 +67,16 @@ The source data was carefully cleaned, validated, formatted, and analyzed using 
 ---
 
 **Review the dataset:**  
-[Vrinda Store Data Analysis.xlsx](./data/Vrinda%20Store%20Data%20Analysis.xlsx)
+[Vrinda Store Data Analysis.xlsx](https://docs.google.com/spreadsheets/d/1E_zKgGYXv5fIoCFEva3S-GjVkDXDdJ94/edit?usp=sharing&ouid=106003096947315417853&rtpof=true&sd=true)
 
 **See charts & dashboards:**  
-[Screenshots in the visuals folder](./visuals/)
+[Screenshots in the visuals folder](https://drive.google.com/file/d/1DAc8CqBwfkRUZP0tPk3FlTZ_YS5zZKj-/view?usp=sharing)
 
 ---
 
 ## 🖼️ Included Visuals
 
-Visualizations available in `visuals/`:
+Visualizations:
 - Monthly Sales Trend (Line Chart)
 - Monthly Orders (Bar Chart)
 - Combined Sales vs Orders (Dual-Axis/Combo Chart)
@@ -86,7 +86,7 @@ Visualizations available in `visuals/`:
   
 
 **Direct Folder Access:**  
-[Visual Charts & Dashboards](./visuals/)
+[Visual Charts & Dashboards](https://drive.google.com/file/d/1DAc8CqBwfkRUZP0tPk3FlTZ_YS5zZKj-/view?usp=sharing)
 
 
 ---
